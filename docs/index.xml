@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Journal Theme Showcase</title>
+    <link>https://dashdashzako.github.io/hugo-journal-demo/</link>
+    <description>Recent content on Hugo Journal Theme Showcase</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Aug 2019 10:29:55 +0200</lastBuildDate>
+    
+	<atom:link href="https://dashdashzako.github.io/hugo-journal-demo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lorem Ipsum Three</title>
+      <link>https://dashdashzako.github.io/hugo-journal-demo/post/lorem-ipsum-three/</link>
+      <pubDate>Fri, 02 Aug 2019 10:29:55 +0200</pubDate>
+      
+      <guid>https://dashdashzako.github.io/hugo-journal-demo/post/lorem-ipsum-three/</guid>
+      <description>Nisi do irure do ipsum excepteur qui labore sit sit. Aliqua amet officia sunt esse irure non aliqua cillum ullamco ea esse mollit esse. Ea nulla id ullamco velit amet anim aliqua voluptate nisi veniam magna deserunt enim. Pariatur elit sint ullamco enim anim voluptate in minim ut. Duis et sunt commodo mollit amet.
+Nulla anim laborum ea esse nostrud mollit excepteur aute veniam tempor nisi. Ea proident occaecat minim ex non anim sint deserunt non pariatur consectetur aliquip eiusmod cillum.</description>
+    </item>
+    
+    <item>
+      <title>Lorem Ipsum One</title>
+      <link>https://dashdashzako.github.io/hugo-journal-demo/post/lorem-ipsum-one/</link>
+      <pubDate>Sun, 02 Sep 2018 10:29:48 +0200</pubDate>
+      
+      <guid>https://dashdashzako.github.io/hugo-journal-demo/post/lorem-ipsum-one/</guid>
+      <description>Reprehenderit consectetur dolor qui duis. In quis nostrud occaecat et dolor. Pariatur sit esse dolore amet magna dolor veniam Lorem et exercitation sit anim. Elit sint mollit labore consectetur ut sit excepteur velit reprehenderit consequat excepteur.
+Laboris cupidatat cillum pariatur do ad dolore non sint in sit. Id aliqua dolor tempor enim sit non magna nisi labore est ipsum anim quis. Enim non aliquip commodo ea aliqua do esse labore duis ad laborum proident ipsum excepteur.</description>
+    </item>
+    
+    <item>
+      <title>Lorem Ipsum Two</title>
+      <link>https://dashdashzako.github.io/hugo-journal-demo/post/lorem-ipsum-two/</link>
+      <pubDate>Wed, 02 May 2018 10:29:51 +0200</pubDate>
+      
+      <guid>https://dashdashzako.github.io/hugo-journal-demo/post/lorem-ipsum-two/</guid>
+      <description>Sit et in sit velit magna excepteur sunt aute eu sunt. Sit tempor ex laborum commodo occaecat nisi do culpa. Labore occaecat officia sint commodo nostrud ullamco Lorem mollit mollit dolore incididunt fugiat. Dolor ex commodo aliquip esse reprehenderit officia nulla eiusmod irure eiusmod ea.
+In excepteur sit do deserunt reprehenderit magna minim nulla. Aute sit in mollit ea do amet ipsum nisi occaecat irure do sunt deserunt. Quis magna eiusmod esse sit anim veniam mollit eiusmod sit Lorem occaecat magna.</description>
+    </item>
+    
+    <item>
+      <title>What Is Hugo</title>
+      <link>https://dashdashzako.github.io/hugo-journal-demo/post/what-is-hugo/</link>
+      <pubDate>Sat, 02 Sep 2017 10:38:55 +0200</pubDate>
+      
+      <guid>https://dashdashzako.github.io/hugo-journal-demo/post/what-is-hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Benefits of Static</title>
+      <link>https://dashdashzako.github.io/hugo-journal-demo/post/the-benefits-of-static/</link>
+      <pubDate>Sat, 02 Sep 2017 10:35:13 +0200</pubDate>
+      
+      <guid>https://dashdashzako.github.io/hugo-journal-demo/post/the-benefits-of-static/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Basic Usage</title>
+      <link>https://dashdashzako.github.io/hugo-journal-demo/post/basic-usage/</link>
+      <pubDate>Sat, 02 Sep 2017 10:34:38 +0200</pubDate>
+      
+      <guid>https://dashdashzako.github.io/hugo-journal-demo/post/basic-usage/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
