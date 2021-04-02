@@ -2,6 +2,7 @@ baseURL = "https://dashdashzako.github.io/hugo-journal-demo/"
 languageCode = "en-us"
 title = "Hugo Journal Theme Showcase"
 theme = "journal"
+disableKinds = ["section", "taxonomy", "term", "RSS"]
 
 [params]
   AuthorName = "dashdashzako"
